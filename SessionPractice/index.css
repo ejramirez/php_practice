@@ -1,0 +1,24 @@
+.container {
+    text-align: center;
+    background-color: skyblue;
+    margin-top: 14em;
+    margin-left: 30em;
+    border-radius: 2em;
+}
+
+#login {
+    margin-left: 4.5em;
+    padding: 1em;
+}
+
+#input {
+    margin: 1em;
+}
+
+body {
+    text-align: center;
+}
+
+a {
+    
+}
